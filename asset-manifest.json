@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PenPal/static/css/main.3079205b.chunk.css",
+    "main.js": "/PenPal/static/js/main.15defa54.chunk.js",
+    "main.js.map": "/PenPal/static/js/main.15defa54.chunk.js.map",
+    "runtime-main.js": "/PenPal/static/js/runtime-main.402de0f3.js",
+    "runtime-main.js.map": "/PenPal/static/js/runtime-main.402de0f3.js.map",
+    "static/js/2.9c6b4108.chunk.js": "/PenPal/static/js/2.9c6b4108.chunk.js",
+    "static/js/2.9c6b4108.chunk.js.map": "/PenPal/static/js/2.9c6b4108.chunk.js.map",
+    "index.html": "/PenPal/index.html",
+    "static/css/main.3079205b.chunk.css.map": "/PenPal/static/css/main.3079205b.chunk.css.map",
+    "static/js/2.9c6b4108.chunk.js.LICENSE.txt": "/PenPal/static/js/2.9c6b4108.chunk.js.LICENSE.txt",
+    "static/media/penpal.609868e2.svg": "/PenPal/static/media/penpal.609868e2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.402de0f3.js",
+    "static/js/2.9c6b4108.chunk.js",
+    "static/css/main.3079205b.chunk.css",
+    "static/js/main.15defa54.chunk.js"
+  ]
+}
